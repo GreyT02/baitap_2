@@ -11,5 +11,5 @@ Chức năng: Màn hình đăng nhập bằng số điện thoại.
 
 ## Kết quả chạy ứng dụng
 ### Màn hình đăng nhập
-![Login Screen](anh/anh1)
+![Login Screen](anh/anh1.jpm)
 
